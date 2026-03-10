@@ -15,11 +15,9 @@ Email Me 👉 ✉️ **wishwasmeghawal1441@gmail.com** For Collaboration/Project
 
 - ⚡ Fun fact: **I Love Tech and Tech Love Me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iam_wishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_wishwas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wishwas-meghawal-26291a301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wishwas-meghawal-26291a301" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wishwas-meghawal-26291a301) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@iam_wishwas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wishwasmeghawal1441@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
