@@ -162,7 +162,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
     <td valign="top" width="33%">
       <h3 align="center">🎨 Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,html,css,tailwind,mui,redux" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vite,js,html,css,tailwind,mui,redux" />
         <br />
         <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
         <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
@@ -172,7 +172,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
     <td valign="top" width="33%">
       <h3 align="center">⚙️ Backend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express" />
         <br />
         <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -185,7 +185,6 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
         <br />
         <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -193,13 +192,13 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
     <td valign="top" width="33%">
       <h3 align="center">🛠️ Tools & Platforms</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,figma" />
+        <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify,figma" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">💻 Languages</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python" />
+        <img src="https://skillicons.dev/icons?i=js,c,cpp" />
         <br />
         <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </div>
@@ -227,7 +226,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishwas-meghawal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9CFF" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=wishwas-meghawal&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+
 </div>
 
 ---
@@ -243,11 +242,11 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 ## 🎯 **Current Focus Areas**
 
 <div align="center">
-  表
+  <table>
      <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📦%20E--Commerce%20Project-Complete%20Platform-2E9CFF?style=flat-square" /><br />
-        <small>Building a production-ready e-commerce solution</small>
+        <smal>Building a production-ready e-commerce solution</small>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/⚡%20Performance%20Optimization-Core%20Web%20Vitals-4ECDC4?style=flat-square" /><br />
