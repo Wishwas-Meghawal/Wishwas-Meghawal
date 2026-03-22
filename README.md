@@ -1,6 +1,6 @@
 <!---
 WISHWAS MEGHAWAL - MERN Stack Developer Portfolio README
-Premium Professional Profile - Version 3.0
+Premium Professional Profile - Version 4.0
 -->
 
 <!-- Animated Header -->
@@ -24,7 +24,6 @@ Premium Professional Profile - Version 3.0
 <!-- Modern Introduction Card -->
 <div align="center">
   <table>
-    <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🎯%20Focus-MERN%20Stack-2E9CFF?style=for-the-badge" />
       </td>
@@ -34,14 +33,14 @@ Premium Professional Profile - Version 3.0
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/🚀%20Goal-Scalable%20Apps-4ECDC4?style=for-the-badge" />
       </td>
-    </tr>
+     </tr>
    </table>
 </div>
 
 <br />
 
 <!-- About Me Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> **About Me**
+## 🚀 **About Me**
 
 Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specializing in the **MERN Stack**. I love transforming ideas into robust, scalable, and user-friendly web applications. With a strong foundation in modern web technologies, I'm committed to writing clean code and building solutions that make a difference.
 
@@ -90,7 +89,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
           <br />
           <img src="https://api.star-history.com/svg?repos=wishwas-meghawal/wishwas-meghawal&type=Date" width="400" />
         </details>
-      </td>
+       </td>
       <td align="center" valign="middle" width="300">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 20px;">
           <h3 style="color: white;">⭐ Rate My Work ⭐</h3>
@@ -106,9 +105,9 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
             </p>
           </div>
         </div>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 <br />
@@ -125,7 +124,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 ---
 
 <!-- Contact Card Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Email.png" alt="Email" width="30" height="30" /> **Let's Connect**
+## 📫 **Let's Connect**
 
 <div align="center">
   <a href="mailto:wishwasmeghawal1441@gmail.com">
@@ -138,28 +137,28 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
         <a href="https://linkedin.com/in/wishwas-meghawal-26291a301" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" width="180" />
         </a>
-      </td>
+       </td>
       <td align="center">
         <a href="https://x.com/@iam_wishwas" target="_blank">
           <img src="https://img.shields.io/badge/X(Twitter)-Profile-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000&color=000000" width="180" />
         </a>
-      </td>
+       </td>
       <td align="center">
         <a href="https://github.com/wishwas-meghawal" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717" width="180" />
         </a>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 ---
 
 <!-- Tech Stack with Advanced Grouping -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> **Technical Arsenal**
+## 🛠️ **Technical Arsenal**
 
 <table align="center">
-  <tr>
+   <tr>
     <td valign="top" width="33%">
       <h3 align="center">🎨 Frontend</h3>
       <div align="center">
@@ -219,7 +218,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 ---
 
 <!-- GitHub Analytics Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> **GitHub Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wishwas-meghawal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9CFF&icon_color=4ECDC4" />
@@ -244,8 +243,8 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 ## 🎯 **Current Focus Areas**
 
 <div align="center">
-  <table>
-    <tr>
+  表
+     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/📦%20E--Commerce%20Project-Complete%20Platform-2E9CFF?style=flat-square" /><br />
         <small>Building a production-ready e-commerce solution</small>
