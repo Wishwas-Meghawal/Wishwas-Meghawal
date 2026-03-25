@@ -56,11 +56,11 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 
 <div>
   <ul>
-    <li>🔭 <strong>Currently Working:</strong> Full-featured E-Commerce Platform</li>
-    <li>🌱 <strong>Currently Learning:</strong> Microservices Architecture, Docker, Kubernetes</li>
+    <li>🔭 <strong>Currently Working:</strong> Building a scalable E-Commerce Platform using MERN Stack</li>
+    <li>🌱 <strong>Currently Learning:</strong> Advanced MERN Stack, API Integration, JWT Authentication, State Management & Scalable Backend Systems</li>
     <li>💬 <strong>Ask Me About:</strong> MERN Stack, JavaScript, REST APIs, Database Design</li>
-    <li>⚡ <strong>Fun Fact:</strong> I write code that not only works but also tells a story! 📖</li>
-    <li>🎯 <strong>2025 Goal:</strong> Contribute to Open Source & Build Scalable SaaS Products</li>
+    <li>⚡ <strong>Fun Fact:</strong> I love turning complex problems into simple, scalable solutions 🚀</li>
+    <li>🎯 <strong>2026 Goal:</strong> Become a skilled Full Stack MERN Developer & build impactful real-world and SaaS applications</li>
   </ul>
 </div>
 
@@ -90,7 +90,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
           <img src="https://api.star-history.com/svg?repos=wishwas-meghawal/wishwas-meghawal&type=Date" width="400" />
         </details>
        </td>
-      <td align="center" valign="middle" width="300">
+      <!-- <td align="center" valign="middle" width="300">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 20px;">
           <h3 style="color: white;">⭐ Rate My Work ⭐</h3>
           <p style="color: white;">Your support means the world! 🌍</p>
@@ -105,7 +105,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
             </p>
           </div>
         </div>
-       </td>
+       </td> -->
      </tr>
    </table>
 </div>
