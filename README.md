@@ -114,7 +114,7 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 
 <div align="center">
   <a href="https://github.com/wishwas-meghawal?tab=repositories">
-    <img src="https://img.shields.io/badge/🔥%20Check%20Out%20My%20Repositories-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
   <a href="https://github.com/sponsors/wishwas-meghawal">
     <img src="https://img.shields.io/badge/💖%20Support%20My%20Work-2E9CFF?style=for-the-badge&logo=githubsponsors&logoColor=white" />
