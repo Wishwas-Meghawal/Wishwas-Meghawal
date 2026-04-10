@@ -216,18 +216,16 @@ Hi there! I'm **Wishwas Meghawal**, a passionate **Full-Stack Developer** specia
 
 ---
 
-<!-- GitHub Analytics Section -->
-## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wishwas-meghawal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9CFF&icon_color=4ECDC4" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wishwas-meghawal&theme=radical&hide_border=true&background=0D1117&stroke=2E9CFF&ring=2E9CFF&fire=FF6B6B" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wishwas-meghawal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9CFF" />
+<!-- ==================== GitHub Analytics ==================== -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-</div>
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=wishwas-meghawal&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ---
 
